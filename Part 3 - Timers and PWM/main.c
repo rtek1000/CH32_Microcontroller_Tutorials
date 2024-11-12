@@ -12,7 +12,7 @@
 
 /*
  *@Note
- *CH32V003F4P6 - Basic USART communication
+ *CH32V003F4P6 - Basic timers and PWM
  *https://curiousscientist.tech/blog/ch32v003f4p6-timers-and-pwm
  */
 
